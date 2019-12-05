@@ -49,3 +49,4 @@ Hackintosh EFI (GIGABYTE Z390 M GAMING + i5 9600KF + RX590)
 -   独显硬件加速
 
 ![avatar](https://github.com/mela93/Gigabyte-Z390M-Gaming-Hackintosh/blob/master/Resouses/SystemInfo.png)
+![avatar](https://github.com/mela93/Gigabyte-Z390M-Gaming-Hackintosh/blob/master/Resouses/VideoProc.png)
